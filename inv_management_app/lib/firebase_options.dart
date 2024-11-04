@@ -83,4 +83,5 @@ class DefaultFirebaseOptions {
     authDomain: 'inv-management-project-darsh.firebaseapp.com',
     storageBucket: 'inv-management-project-darsh.firebasestorage.app',
   );
+
 }
