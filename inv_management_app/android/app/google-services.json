@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610149107217",
+    "project_id": "inv-management-project-darsh",
+    "storage_bucket": "inv-management-project-darsh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610149107217:android:dad5a50527abdab72a93b0",
+        "android_client_info": {
+          "package_name": "com.invmanagement.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULNz48FKWDZ09NVEbXKvttIfXNg-HRHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
