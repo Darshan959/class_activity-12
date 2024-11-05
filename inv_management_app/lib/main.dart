@@ -7,7 +7,12 @@ import 'firebase_options.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
+    options: FirebaseOptions(
+      appId: "1:610149107217:android:dad5a50527abdab72a93b0",
+      projectId: "inv-management-project-darsh",
+      apiKey: '',
+      messagingSenderId: 'inv-management-project-darsh',
+    ),
   );
   runApp(const MyApp());
 }
